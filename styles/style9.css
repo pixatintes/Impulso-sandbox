@@ -1,0 +1,48 @@
+/* PRIMARI (més important) */
+.sandbox.sheet input.principal {
+  background-color: #dcd6f7; /* lavanda gris */
+  color: #1e1e2f;
+  font-weight: bold;
+}
+
+/* SECUNDARI */
+.sandbox.sheet input.secundario {
+  background-color: #e9e9f0; /* gris lila clar */
+  color: #333;
+  font-weight: normal;
+}
+
+/* CUALIDAD (molt neutre) */
+.sandbox.sheet input.cualidad {
+  background-color: #f4f4f4; /* gris neutre */
+  color: #333;
+  font-weight: normal;
+}
+
+/* VENTAJA (positiu) */
+.sandbox.sheet input.ventaja {
+  background-color: #e4fbe1; /* verd clar suau */
+  color: #2f4f2f;
+  font-weight: normal;
+}
+
+/* DESVENTAJA (negatiu) */
+.sandbox.sheet input.desventaja {
+  background-color: #fbe4e4; /* vermell clar suau */
+  color: #4f2f2f;
+  font-weight: normal;
+}
+
+/* FOCO (important però subtil) */
+.sandbox.sheet input.foco {
+  background-color: #e6f0ff; /* blau clar suau */
+  color: #1f2f3f;
+  font-weight: normal;
+}
+
+/* FOCO CORRUPTE (alerta suau) */
+.sandbox.sheet input.fococ {
+  background-color: #fdecec; /* vermell pastel clar */
+  color: #3f2f2f;
+  font-weight: normal;
+}

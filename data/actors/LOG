@@ -1,0 +1,104 @@
+2025/06/01-13:56:08.082908 edfcaefaf0a0 Delete type=3 #1
+2025/06/01-13:59:21.365842 edfcad4290a0 Level-0 table #5: started
+2025/06/01-13:59:21.378097 edfcad4290a0 Level-0 table #5: 954418 bytes OK
+2025/06/01-13:59:21.379507 edfcad4290a0 Delete type=0 #3
+2025/06/01-14:17:49.265197 edfcad4290a0 Level-0 table #7: started
+2025/06/01-14:17:49.284066 edfcad4290a0 Level-0 table #7: 981606 bytes OK
+2025/06/01-14:17:49.285563 edfcad4290a0 Delete type=0 #4
+2025/06/01-14:20:26.457152 edfcad4290a0 Level-0 table #9: started
+2025/06/01-14:20:26.469309 edfcad4290a0 Level-0 table #9: 964614 bytes OK
+2025/06/01-14:20:26.471003 edfcad4290a0 Delete type=0 #6
+2025/06/01-14:43:10.734030 edfcad4290a0 Compacting 1@0 + 1@1 files
+2025/06/01-14:43:10.751731 edfcad4290a0 Generated table #10@0: 7 keys, 89864 bytes
+2025/06/01-14:43:10.751744 edfcad4290a0 Compacted 1@0 + 1@1 files => 89864 bytes
+2025/06/01-14:43:10.753543 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/01-14:43:10.753689 edfcad4290a0 Delete type=2 #7
+2025/06/01-14:43:10.753943 edfcad4290a0 Delete type=2 #9
+2025/06/01-14:44:25.740372 edfcad4290a0 Level-0 table #12: started
+2025/06/01-14:44:25.756444 edfcad4290a0 Level-0 table #12: 996016 bytes OK
+2025/06/01-14:44:25.758429 edfcad4290a0 Delete type=0 #8
+2025/06/01-14:54:06.058029 edfcad4290a0 Compacting 1@0 + 1@1 files
+2025/06/01-14:54:06.071198 edfcad4290a0 Generated table #13@0: 7 keys, 90233 bytes
+2025/06/01-14:54:06.071212 edfcad4290a0 Compacted 1@0 + 1@1 files => 90233 bytes
+2025/06/01-14:54:06.074507 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/01-14:54:06.074589 edfcad4290a0 Delete type=2 #10
+2025/06/01-14:54:06.074743 edfcad4290a0 Delete type=2 #12
+2025/06/01-15:10:56.483876 edfcad4290a0 Level-0 table #15: started
+2025/06/01-15:10:56.497394 edfcad4290a0 Level-0 table #15: 1045079 bytes OK
+2025/06/01-15:10:56.499009 edfcad4290a0 Delete type=0 #11
+2025/06/01-15:39:28.037363 edfcad4290a0 Level-0 table #17: started
+2025/06/01-15:39:28.056570 edfcad4290a0 Level-0 table #17: 1045635 bytes OK
+2025/06/01-15:39:28.058037 edfcad4290a0 Delete type=0 #14
+2025/06/01-15:55:07.105724 edfcad4290a0 Compacting 2@0 + 1@1 files
+2025/06/01-15:55:07.122536 edfcad4290a0 Generated table #18@0: 8 keys, 106944 bytes
+2025/06/01-15:55:07.122553 edfcad4290a0 Compacted 2@0 + 1@1 files => 106944 bytes
+2025/06/01-15:55:07.125549 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/01-15:55:07.125732 edfcad4290a0 Delete type=2 #17
+2025/06/01-15:55:07.126026 edfcad4290a0 Delete type=2 #15
+2025/06/01-15:55:07.126206 edfcad4290a0 Delete type=2 #13
+2025/06/01-15:56:12.311389 edfcad4290a0 Level-0 table #20: started
+2025/06/01-15:56:12.324225 edfcad4290a0 Level-0 table #20: 1083756 bytes OK
+2025/06/01-15:56:12.325801 edfcad4290a0 Delete type=0 #16
+2025/06/01-16:11:24.825092 edfcad4290a0 Level-0 table #22: started
+2025/06/01-16:11:24.837445 edfcad4290a0 Level-0 table #22: 1027173 bytes OK
+2025/06/01-16:11:24.838976 edfcad4290a0 Delete type=0 #19
+2025/06/01-16:19:50.711386 edfcad4290a0 Level-0 table #24: started
+2025/06/01-16:19:50.723883 edfcad4290a0 Level-0 table #24: 1000962 bytes OK
+2025/06/01-16:19:50.725426 edfcad4290a0 Delete type=0 #21
+2025/06/01-16:46:10.766508 edfcad4290a0 Level-0 table #26: started
+2025/06/01-16:46:10.784900 edfcad4290a0 Level-0 table #26: 1017818 bytes OK
+2025/06/01-16:46:10.786459 edfcad4290a0 Delete type=0 #23
+2025/06/01-16:46:10.787321 edfcad4290a0 Compacting 4@0 + 1@1 files
+2025/06/01-16:46:10.798270 edfcad4290a0 Generated table #27@0: 9 keys, 107758 bytes
+2025/06/01-16:46:10.798283 edfcad4290a0 Compacted 4@0 + 1@1 files => 107758 bytes
+2025/06/01-16:46:10.799731 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/01-16:46:10.799881 edfcad4290a0 Delete type=2 #24
+2025/06/01-16:46:10.800129 edfcad4290a0 Delete type=2 #26
+2025/06/01-16:46:10.800386 edfcad4290a0 Delete type=2 #22
+2025/06/01-16:46:10.800642 edfcad4290a0 Delete type=2 #20
+2025/06/01-16:46:10.800817 edfcad4290a0 Delete type=2 #18
+2025/06/01-16:58:31.400178 edfcad4290a0 Level-0 table #29: started
+2025/06/01-16:58:31.418844 edfcad4290a0 Level-0 table #29: 1005310 bytes OK
+2025/06/01-16:58:31.420568 edfcad4290a0 Delete type=0 #25
+2025/06/01-17:17:35.354095 edfcad4290a0 Level-0 table #31: started
+2025/06/01-17:17:35.371256 edfcad4290a0 Level-0 table #31: 938822 bytes OK
+2025/06/01-17:17:35.372928 edfcad4290a0 Delete type=0 #28
+2025/06/01-18:05:36.839539 edfcad4290a0 Level-0 table #33: started
+2025/06/01-18:05:36.852792 edfcad4290a0 Level-0 table #33: 911761 bytes OK
+2025/06/01-18:05:36.854491 edfcad4290a0 Delete type=0 #30
+2025/06/01-18:10:43.637779 edfcad4290a0 Level-0 table #35: started
+2025/06/01-18:10:43.654374 edfcad4290a0 Level-0 table #35: 1005989 bytes OK
+2025/06/01-18:10:43.656017 edfcad4290a0 Delete type=0 #32
+2025/06/01-18:10:43.656782 edfcad4290a0 Compacting 4@0 + 1@1 files
+2025/06/01-18:10:43.667121 edfcad4290a0 Generated table #36@0: 9 keys, 111556 bytes
+2025/06/01-18:10:43.667133 edfcad4290a0 Compacted 4@0 + 1@1 files => 111556 bytes
+2025/06/01-18:10:43.668878 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/01-18:10:43.669014 edfcad4290a0 Delete type=2 #31
+2025/06/01-18:10:43.669263 edfcad4290a0 Delete type=2 #33
+2025/06/01-18:10:43.669441 edfcad4290a0 Delete type=2 #27
+2025/06/01-18:10:43.669552 edfcad4290a0 Delete type=2 #35
+2025/06/01-18:10:43.669772 edfcad4290a0 Delete type=2 #29
+2025/06/01-18:26:18.137368 edfcad4290a0 Level-0 table #38: started
+2025/06/01-18:26:18.150536 edfcad4290a0 Level-0 table #38: 928868 bytes OK
+2025/06/01-18:26:18.152116 edfcad4290a0 Delete type=0 #34
+2025/06/01-18:38:43.129850 edfcad4290a0 Level-0 table #40: started
+2025/06/01-18:38:43.141977 edfcad4290a0 Level-0 table #40: 954897 bytes OK
+2025/06/01-18:38:43.143594 edfcad4290a0 Delete type=0 #37
+2025/06/01-18:46:15.607980 edfcad4290a0 Level-0 table #42: started
+2025/06/01-18:46:15.621176 edfcad4290a0 Level-0 table #42: 994725 bytes OK
+2025/06/01-18:46:15.622674 edfcad4290a0 Delete type=0 #39
+2025/06/01-18:49:59.002067 edfcad4290a0 Level-0 table #44: started
+2025/06/01-18:49:59.014441 edfcad4290a0 Level-0 table #44: 994065 bytes OK
+2025/06/01-18:49:59.015839 edfcad4290a0 Delete type=0 #41
+2025/06/01-18:49:59.016603 edfcad4290a0 Compacting 4@0 + 1@1 files
+2025/06/01-18:49:59.026514 edfcad4290a0 Generated table #45@0: 11 keys, 109661 bytes
+2025/06/01-18:49:59.026527 edfcad4290a0 Compacted 4@0 + 1@1 files => 109661 bytes
+2025/06/01-18:49:59.027870 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/01-18:49:59.027951 edfcad4290a0 Delete type=2 #36
+2025/06/01-18:49:59.028091 edfcad4290a0 Delete type=2 #44
+2025/06/01-18:49:59.028315 edfcad4290a0 Delete type=2 #40
+2025/06/01-18:49:59.028572 edfcad4290a0 Delete type=2 #42
+2025/06/01-18:49:59.028822 edfcad4290a0 Delete type=2 #38
+2025/06/01-19:02:22.909865 edfcad4290a0 Level-0 table #47: started
+2025/06/01-19:02:22.926788 edfcad4290a0 Level-0 table #47: 969982 bytes OK
+2025/06/01-19:02:22.928435 edfcad4290a0 Delete type=0 #43

@@ -1,0 +1,14 @@
+{
+  "title": "Impulso",
+  "id": "impulso",
+  "system": "sandbox",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "0.14.4.4",
+  "lastPlayed": "Sun Jun 01 2025 13:56:08 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 5972
+}
