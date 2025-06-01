@@ -1,5 +1,5 @@
 {
-  "title": "Sistema Trueque",
+  "title": "Sistema Impulso",
      "authors": [
     {
       "name": "pixatintes",
@@ -10,8 +10,7 @@
   "system": "sandbox",
   "manifest": "https://raw.githubusercontent.com/pixatintes/Trueque-SandBox/main/world.json",
   "download": "https://github.com/pixatintes/Trueque-SandBox/archive/refs/heads/main.zip",
-  "id": "trueque",
-  "system": "sandbox",
+  "id": "impulso",
   "coreVersion": "11.315",
   "compatibility": {
     "minimum": "11",
