@@ -8,7 +8,7 @@
   ],
   "url": "https://github.com/pixatintes/Impulso-sandbox/",
   "system": "sandbox",
-  "manifest": "https://github.com/pixatintes/Impulso-sandbox/blob/main/world.json",
+  "manifest": "https://raw.githubusercontent.com/pixatintes/Impulso-sandbox/refs/heads/main/world.json",
   "download": "https://github.com/pixatintes/Impulso-sandbox/archive/refs/heads/main.zip",
   "id": "impulso",
   "coreVersion": "11.315",
