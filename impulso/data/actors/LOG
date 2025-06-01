@@ -1,0 +1,8 @@
+2025/06/01-20:01:13.902815 eafda160f0a0 Recovering log #46
+2025/06/01-20:01:13.908218 eafda160f0a0 Level-0 table #49: started
+2025/06/01-20:01:13.920303 eafda160f0a0 Level-0 table #49: 831030 bytes OK
+2025/06/01-20:01:13.925751 eafda160f0a0 Delete type=3 #2
+2025/06/01-20:01:13.925778 eafda160f0a0 Delete type=0 #46
+2025/06/01-20:10:20.904886 eafda0c0f0a0 Level-0 table #52: started
+2025/06/01-20:10:20.919581 eafda0c0f0a0 Level-0 table #52: 951216 bytes OK
+2025/06/01-20:10:20.921604 eafda0c0f0a0 Delete type=0 #50
