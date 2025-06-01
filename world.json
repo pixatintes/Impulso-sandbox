@@ -1,4 +1,14 @@
 {
+	  "title": "Sistema Impulso",
+     "authors": [
+    {
+      "name": "pixatintes",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/pixatintes/Impulso-sandbox/",
+  "manifest": "https://raw.githubusercontent.com/pixatintes/Impulso-sandbox/main/world.json",
+  "download": "https://github.com/pixatintes/Impulso-sandbox/archive/refs/heads/main.zip",
   "title": "Impulso",
   "id": "impulso",
   "system": "sandbox",
