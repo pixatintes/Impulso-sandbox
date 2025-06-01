@@ -1,24 +1,21 @@
 {
-	  "title": "Sistema Impulso",
-     "authors": [
+  "title": "Sistema Impulso",
+  "authors": [
     {
       "name": "pixatintes",
       "flags": {}
     }
   ],
   "url": "https://github.com/pixatintes/Impulso-sandbox/",
-  "manifest": "https://raw.githubusercontent.com/pixatintes/Impulso-sandbox/main/world.json",
-  "download": "https://github.com/pixatintes/Impulso-sandbox/archive/refs/heads/main.zip",
-  "title": "Impulso",
-  "id": "impulso",
   "system": "sandbox",
-  "joinTheme": "default",
+  "manifest": "https://github.com/pixatintes/Impulso-sandbox/blob/main/world.json",
+  "download": "https://github.com/pixatintes/Impulso-sandbox/archive/refs/heads/main.zip",
+  "id": "impulso",
   "coreVersion": "11.315",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
   "systemVersion": "0.14.4.4",
-  "lastPlayed": "Sun Jun 01 2025 13:56:08 GMT+0000 (Coordinated Universal Time)",
-  "playtime": 5972
+  "lastPlayed": "Sun Jun 01 2025 20:01:14 GMT+0000 (Coordinated Universal Time)"
 }

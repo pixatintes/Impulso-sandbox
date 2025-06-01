@@ -1,1 +1,5 @@
-2025/06/01-13:56:08.146659 edfcaf7bf0a0 Delete type=3 #1
+2025/06/01-20:01:13.988819 eafda200f0a0 Recovering log #3
+2025/06/01-20:01:13.994748 eafda200f0a0 Level-0 table #5: started
+2025/06/01-20:01:14.008298 eafda200f0a0 Level-0 table #5: 1055666 bytes OK
+2025/06/01-20:01:14.013766 eafda200f0a0 Delete type=0 #3
+2025/06/01-20:01:14.014379 eafda200f0a0 Delete type=3 #2
