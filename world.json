@@ -1,0 +1,21 @@
+{
+  "title": "Sistema Impulso",
+     "authors": [
+    {
+      "name": "pixatintes",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/pixatintes/Impulso-sandbox/",
+  "system": "sandbox",
+  "manifest": "https://github.com/pixatintes/Impulso-sandbox/blob/main/world.json",
+  "download": "https://github.com/pixatintes/Impulso-sandbox/archive/refs/heads/main.zip",
+  "id": "impulso",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "0.14.4.4",
+  "lastPlayed": "Wed May 28 2025 12:15:46 GMT+0000 (Coordinated Universal Time)"
+}
